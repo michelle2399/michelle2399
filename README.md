@@ -1,8 +1,6 @@
 ## Hi there 👋
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelle2399&show_icons=true&theme=tokyonight&count_private=true&hide=prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle2399&langs_count=8)
-
 
 <!--
 **michelle2399/michelle2399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
