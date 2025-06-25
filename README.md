@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelle2399&show_icons=true&theme=tokyonight&count_private=true&hide=prs)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle2399&langs_count=8)
 
 
 <!--
